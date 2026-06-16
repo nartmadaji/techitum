@@ -1,0 +1,306 @@
+[
+  {
+    "id": "work-gloves-general",
+    "categoryId": "technical-supply",
+    "title": "כפפות עבודה כלליות",
+    "brand": "",
+    "shortDescription": "כפפות שימושיות לעבודות תחזוקה, שיפוץ ועבודה יומיומית.",
+    "image": "/assets/images/products/technical-supply/work-gloves-general.webp",
+    "alt": "כפפות עבודה כלליות",
+    "tags": [
+      "ציוד עבודה",
+      "בטיחות"
+    ],
+    "badges": [
+      "מוצר מבוקש"
+    ],
+    "featured": false,
+    "priority": 10,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי כפפות עבודה כלליות"
+  },
+  {
+    "id": "masking-tape-utility",
+    "categoryId": "technical-supply",
+    "title": "סרט הדבקה לעבודות כלליות",
+    "brand": "",
+    "shortDescription": "סרט שימושי לסימון, אריזה ועבודות הכנה בסיסיות.",
+    "image": "/assets/images/products/technical-supply/masking-tape-utility.webp",
+    "alt": "סרט הדבקה לעבודות כלליות",
+    "tags": [
+      "אביזרים",
+      "תחזוקה"
+    ],
+    "badges": [],
+    "featured": false,
+    "priority": 20,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי סרט הדבקה לעבודות כלליות"
+  },
+  {
+    "id": "cement-bag-general",
+    "categoryId": "building-materials",
+    "title": "שק מלט לעבודות בניין",
+    "brand": "",
+    "shortDescription": "מוצר בסיס לעבודות בנייה, תיקונים והכנות באתר.",
+    "image": "/assets/images/products/building-materials/cement-bag-general.webp",
+    "alt": "שק מלט לעבודות בניין",
+    "tags": [
+      "בנייה",
+      "תיקונים"
+    ],
+    "badges": [
+      "מוצר בסיס"
+    ],
+    "featured": false,
+    "priority": 10,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי שק מלט לעבודות בניין"
+  },
+  {
+    "id": "repair-mortar-general",
+    "categoryId": "building-materials",
+    "title": "חומר תיקון לקירות",
+    "brand": "",
+    "shortDescription": "חומר כללי לתיקונים והכנת תשתית לפני עבודות גמר.",
+    "image": "/assets/images/products/building-materials/repair-mortar-general.webp",
+    "alt": "חומר תיקון לקירות",
+    "tags": [
+      "תיקונים",
+      "קירות"
+    ],
+    "badges": [],
+    "featured": false,
+    "priority": 20,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי חומר תיקון לקירות"
+  },
+  {
+    "id": "roof-sealing-compound",
+    "categoryId": "waterproofing-insulation",
+    "title": "חומר איטום לגגות",
+    "brand": "",
+    "shortDescription": "פתרון כללי לאיטום אזורים חשופים והכנה לעונת הגשמים.",
+    "image": "/assets/images/products/waterproofing-insulation/roof-sealing-compound.webp",
+    "alt": "חומר איטום לגגות",
+    "tags": [
+      "איטום",
+      "גגות"
+    ],
+    "badges": [
+      "עונתי"
+    ],
+    "featured": false,
+    "priority": 10,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי חומר איטום לגגות"
+  },
+  {
+    "id": "sealing-tape-general",
+    "categoryId": "waterproofing-insulation",
+    "title": "סרט איטום",
+    "brand": "",
+    "shortDescription": "אביזר עזר לעבודות איטום, תיקון וחיזוק נקודות רגישות.",
+    "image": "/assets/images/products/waterproofing-insulation/sealing-tape-general.webp",
+    "alt": "סרט איטום",
+    "tags": [
+      "איטום",
+      "אביזרים"
+    ],
+    "badges": [],
+    "featured": false,
+    "priority": 20,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי סרט איטום"
+  },
+  {
+    "id": "cordless-drill-general",
+    "categoryId": "tools",
+    "title": "מברגה נטענת",
+    "brand": "",
+    "shortDescription": "כלי עבודה שימושי להרכבות, תיקונים ועבודות תחזוקה.",
+    "image": "/assets/images/products/tools/cordless-drill-general.webp",
+    "alt": "מברגה נטענת",
+    "tags": [
+      "כלי עבודה",
+      "הרכבות"
+    ],
+    "badges": [
+      "מוצר מבוקש"
+    ],
+    "featured": false,
+    "priority": 10,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי מברגה נטענת"
+  },
+  {
+    "id": "utility-knife-general",
+    "categoryId": "tools",
+    "title": "סכין יפנית",
+    "brand": "",
+    "shortDescription": "כלי בסיסי לחיתוך, פתיחה ועבודות הכנה באתר או בבית.",
+    "image": "/assets/images/products/tools/utility-knife-general.webp",
+    "alt": "סכין יפנית",
+    "tags": [
+      "כלי יד",
+      "חיתוך"
+    ],
+    "badges": [],
+    "featured": false,
+    "priority": 20,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי סכין יפנית"
+  },
+  {
+    "id": "bathroom-faucet-general",
+    "categoryId": "bathroom-showers",
+    "title": "ברז אמבטיה",
+    "brand": "",
+    "shortDescription": "ברז לשדרוג או החלפה בחדרי רחצה, בכפוף למלאי בחנות.",
+    "image": "/assets/images/products/bathroom-showers/bathroom-faucet-general.webp",
+    "alt": "ברז אמבטיה",
+    "tags": [
+      "אמבטיה",
+      "ברזים"
+    ],
+    "badges": [],
+    "featured": false,
+    "priority": 10,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי ברז אמבטיה"
+  },
+  {
+    "id": "plumbing-connector-general",
+    "categoryId": "plumbing",
+    "title": "מחבר אינסטלציה",
+    "brand": "",
+    "shortDescription": "אביזר חיבור לעבודות אינסטלציה ותחזוקה בסיסית.",
+    "image": "/assets/images/products/plumbing/plumbing-connector-general.webp",
+    "alt": "מחבר אינסטלציה",
+    "tags": [
+      "אינסטלציה",
+      "אביזרים"
+    ],
+    "badges": [
+      "מוצר בסיס"
+    ],
+    "featured": false,
+    "priority": 20,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי מחבר אינסטלציה"
+  },
+  {
+    "id": "wall-paint-general",
+    "categoryId": "paint-drywall",
+    "title": "צבע לקירות",
+    "brand": "",
+    "shortDescription": "צבע כללי לעבודות רענון וגמר בבית או בעסק.",
+    "image": "/assets/images/products/paint-drywall/wall-paint-general.webp",
+    "alt": "צבע לקירות",
+    "tags": [
+      "צבע",
+      "גמר"
+    ],
+    "badges": [
+      "מוצר מבוקש"
+    ],
+    "featured": false,
+    "priority": 10,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי צבע לקירות"
+  },
+  {
+    "id": "electrical-tape-general",
+    "categoryId": "electrical",
+    "title": "סרט בידוד לחשמל",
+    "brand": "",
+    "shortDescription": "אביזר שימושי לעבודות חשמל בסיסיות ותחזוקה.",
+    "image": "/assets/images/products/electrical/electrical-tape-general.webp",
+    "alt": "סרט בידוד לחשמל",
+    "tags": [
+      "חשמל",
+      "אביזרים"
+    ],
+    "badges": [],
+    "featured": false,
+    "priority": 20,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי סרט בידוד לחשמל"
+  },
+  {
+    "id": "garden-hose-general",
+    "categoryId": "home-garden-cleaning",
+    "title": "צינור גינה",
+    "brand": "",
+    "shortDescription": "אביזר שימושי להשקיה, ניקוי ותחזוקת החצר.",
+    "image": "/assets/images/products/home-garden-cleaning/garden-hose-general.webp",
+    "alt": "צינור גינה",
+    "tags": [
+      "גינה",
+      "השקיה"
+    ],
+    "badges": [
+      "עונתי"
+    ],
+    "featured": false,
+    "priority": 10,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי צינור גינה"
+  },
+  {
+    "id": "storage-box-general",
+    "categoryId": "home-garden-cleaning",
+    "title": "ארגז אחסון",
+    "brand": "",
+    "shortDescription": "פתרון אחסון כללי לבית, לחצר או לאזור העבודה.",
+    "image": "/assets/images/products/home-garden-cleaning/storage-box-general.webp",
+    "alt": "ארגז אחסון",
+    "tags": [
+      "אחסון",
+      "בית"
+    ],
+    "badges": [],
+    "featured": false,
+    "priority": 20,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי ארגז אחסון"
+  },
+  {
+    "id": "emergency-light-general",
+    "categoryId": "electrical",
+    "title": "תאורת חירום",
+    "brand": "",
+    "shortDescription": "מוצר עונתי ושימושי להיערכות לבית ולעסק.",
+    "image": "/assets/images/products/electrical/emergency-light-general.webp",
+    "alt": "תאורת חירום",
+    "tags": [
+      "חירום",
+      "תאורה"
+    ],
+    "badges": [
+      "מלאי עונתי"
+    ],
+    "featured": false,
+    "priority": 10,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי תאורת חירום"
+  },
+  {
+    "id": "seasonal-fan-general",
+    "categoryId": "home-garden-cleaning",
+    "title": "מאוורר עונתי",
+    "brand": "",
+    "shortDescription": "מוצר עונתי לבית או לעסק, בהתאם למלאי המשתנה.",
+    "image": "/assets/images/products/home-garden-cleaning/seasonal-fan-general.webp",
+    "alt": "מאוורר עונתי",
+    "tags": [
+      "עונתי",
+      "בית"
+    ],
+    "badges": [],
+    "featured": false,
+    "priority": 20,
+    "availabilityText": "בדקו זמינות מול החנות",
+    "whatsappText": "שלום, אני רוצה לבדוק זמינות לגבי מאוורר עונתי"
+  }
+]

@@ -1,0 +1,354 @@
+:root {
+  --brand-dark: #1c1c1d;
+  --brand-red: #c6393c;
+  --brand-red-dark: #ae3133;
+  --steel-light: #c9d6d9;
+  --steel: #909293;
+  --white: #fefefe;
+  --soft-bg: #f2f2f2;
+  --border: #d5dbdd;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Heebo", Arial, sans-serif;
+  background: var(--white);
+  color: var(--brand-dark);
+  line-height: 1.7;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.page {
+  min-height: 100vh;
+  background: var(--white);
+}
+
+
+.container {
+  width: min(1120px, calc(100% - 40px));
+  margin: 0 auto;
+}
+
+.category-page {
+  background: var(--white);
+}
+
+.category-hero {
+  min-height: 420px;
+  padding: 86px 0 78px;
+  background: var(--brand-dark);
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  text-align: center;
+  border-bottom: none;
+}
+
+.category-hero .container {
+  max-width: 920px;
+}
+
+.section-kicker {
+  margin: 0 0 14px;
+  color: var(--brand-red);
+  font-size: 14px;
+  font-weight: 900;
+}
+
+.category-hero h1 {
+  margin: 0 auto 20px;
+  max-width: 980px;
+  font-size: clamp(38px, 6vw, 72px);
+  line-height: 1.18;
+  font-weight: 500;
+  letter-spacing: -0.045em;
+}
+
+.category-hero p:last-of-type {
+  margin: 0 auto;
+  max-width: 760px;
+  color: rgba(254, 254, 254, 0.82);
+  font-size: clamp(18px, 2vw, 23px);
+  line-height: 1.75;
+  font-weight: 500;
+}
+
+.category-hero__actions {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 28px;
+}
+
+.category-products,
+.category-related,
+.category-contact {
+  padding: 64px 0;
+}
+
+.section-heading {
+  max-width: 720px;
+  margin-bottom: 28px;
+}
+
+.section-heading h2 {
+  margin: 0 0 10px;
+  font-size: clamp(26px, 4vw, 42px);
+  line-height: 1.15;
+}
+
+.section-heading p {
+  margin: 0;
+  color: #56595b;
+}
+
+.category-products .section-heading {
+  margin-inline: auto;
+  text-align: center;
+}
+
+.category-contact {
+  background: var(--brand-dark);
+  color: var(--white);
+}
+
+.category-contact__panel {
+  display: grid;
+  justify-items: center;
+  text-align: center;
+  gap: 24px;
+  max-width: 920px;
+}
+
+.category-contact .category-actions {
+  justify-content: center;
+}
+
+.category-contact h2 {
+  margin: 0 0 10px;
+  font-size: clamp(28px, 4vw, 44px);
+  line-height: 1.15;
+}
+
+.category-contact p {
+  margin: 0;
+  max-width: 680px;
+  color: rgba(254, 254, 254, 0.78);
+}
+
+.category-actions,
+.related-categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.btn,
+.button {
+  --button-bg: var(--brand-red);
+  --button-bg-hover: var(--brand-dark);
+  --button-text: #fff;
+  --button-text-hover: #fff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  padding: 11px 28px;
+  border-radius: 999px;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  z-index: 1;
+  direction: rtl;
+  color: var(--button-text);
+  background: transparent;
+  font-size: 16px;
+  font-weight: 900;
+  line-height: 1;
+  transition:
+    color 0.18s ease 0.1s,
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.btn::after,
+.button::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--button-bg);
+  border-radius: inherit;
+  z-index: -2;
+}
+
+.btn::before,
+.button::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  background: var(--button-bg-hover);
+  border-radius: inherit;
+  z-index: -1;
+  transform: scaleX(0);
+  transform-origin: right center;
+  transition: transform 0.34s ease;
+  will-change: transform;
+}
+
+
+.btn:hover,
+.button:hover {
+  color: var(--button-text-hover);
+  transform: translateY(-1px);
+}
+
+.btn:hover::before,
+.button:hover::before {
+  transform: scaleX(1);
+}
+
+.btn:focus-visible,
+.button:focus-visible {
+  outline: 3px solid rgba(198, 57, 60, 0.28);
+  outline-offset: 3px;
+}
+
+.btn-primary,
+.button-primary {
+  --button-bg: var(--brand-red);
+  --button-bg-hover: var(--brand-dark);
+  --button-text: #fff;
+  --button-text-hover: #fff;
+  box-shadow: 0 12px 28px rgba(198, 57, 60, 0.22);
+}
+
+.btn-primary:hover,
+.button-primary:hover {
+  box-shadow: 0 16px 34px rgba(28, 28, 29, 0.22);
+}
+
+.btn-secondary,
+.button-secondary {
+  --button-bg: var(--white);
+  --button-bg-hover: var(--brand-red);
+  --button-text: var(--brand-dark);
+  --button-text-hover: var(--white);
+  border: 0;
+  box-shadow: 0 10px 24px rgba(28, 28, 29, 0.08);
+}
+
+.btn-secondary:hover,
+.button-secondary:hover {
+  box-shadow: 0 14px 30px rgba(198, 57, 60, 0.18);
+}
+
+.category-contact .btn-primary {
+  --button-bg: var(--brand-red);
+  --button-bg-hover: var(--white);
+  --button-text: var(--white);
+  --button-text-hover: var(--brand-dark);
+}
+
+.category-hero .btn-primary {
+  --button-bg: var(--brand-red);
+  --button-bg-hover: var(--white);
+  --button-text: var(--white);
+  --button-text-hover: var(--brand-dark);
+}
+
+.category-hero .btn-primary:hover {
+  box-shadow: 0 16px 34px rgba(254, 254, 254, 0.14);
+}
+
+.related-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 46px;
+  padding: 10px 18px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--white);
+  font-weight: 800;
+}
+
+.related-link:hover {
+  border-color: var(--brand-red);
+  color: var(--brand-red);
+}
+
+.category-related {
+  text-align: center;
+}
+
+.category-related .section-heading {
+  margin-inline: auto;
+}
+
+.category-related .related-categories {
+  justify-content: center;
+}
+
+.category-related .related-link {
+  justify-content: center;
+  text-align: center;
+}
+
+@media (max-width: 900px) {
+  .container {
+    width: min(100% - 28px, 1120px);
+  }
+
+  .category-contact__panel {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 620px) {
+  .category-hero,
+  .category-products,
+  .category-related,
+  .category-contact {
+    padding: 46px 0;
+  }
+
+  .category-actions {
+    display: grid;
+  }
+
+  .btn,
+  .related-link {
+    width: 100%;
+  }
+
+  .category-hero {
+  min-height: 360px;
+  padding: 64px 0 58px;
+}
+
+.category-hero__actions {
+  display: grid;
+  width: 100%;
+  max-width: 340px;
+  margin-inline: auto;
+}
+}

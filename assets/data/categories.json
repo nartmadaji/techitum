@@ -1,0 +1,92 @@
+[
+  {
+    "id": "technical-supply",
+    "name": "אספקה טכנית",
+    "slug": "technical-supply",
+    "url": "/categories/technical-supply/",
+    "shortDescription": "ציוד, אביזרים וחומרים לבעלי מקצוע, שיפוצניקים ולקוחות פרטיים.",
+    "image": "/assets/images/categories/technical-supply.webp",
+    "icon": "/assets/icons/categories/technical-supply.svg",
+    "priority": 1
+  },
+  {
+    "id": "building-materials",
+    "name": "חומרי בניין",
+    "slug": "building-materials",
+    "url": "/categories/building-materials/",
+    "shortDescription": "חומרים בסיסיים לעבודות בנייה, תיקונים, הכנה ושיפוץ.",
+    "image": "/assets/images/categories/building-materials.webp",
+    "icon": "/assets/icons/categories/building-materials.svg",
+    "priority": 2
+  },
+  {
+    "id": "waterproofing-insulation",
+    "name": "חומרי איטום ובידוד",
+    "slug": "waterproofing-insulation",
+    "url": "/categories/waterproofing-insulation/",
+    "shortDescription": "חומרי איטום, בידוד, יריעות, משחות ופתרונות לעבודות גג, קירות ורצפה.",
+    "image": "/assets/images/categories/waterproofing-insulation.webp",
+    "icon": "/assets/icons/categories/waterproofing-insulation.svg",
+    "priority": 3
+  },
+  {
+    "id": "tools",
+    "name": "כלי עבודה",
+    "slug": "tools",
+    "url": "/categories/tools/",
+    "shortDescription": "כלי עבודה ידניים וחשמליים, אביזרים וציוד עזר לעבודה מקצועית.",
+    "image": "/assets/images/categories/tools.webp",
+    "icon": "/assets/icons/categories/tools.svg",
+    "priority": 4
+  },
+  {
+    "id": "plumbing",
+    "name": "אינסטלציה",
+    "slug": "plumbing",
+    "url": "/categories/plumbing/",
+    "shortDescription": "צנרת, מחברים, אביזרי מים, פתרונות תיקון וחלקי אינסטלציה.",
+    "image": "/assets/images/categories/plumbing.webp",
+    "icon": "/assets/icons/categories/plumbing.svg",
+    "priority": 5
+  },
+  {
+    "id": "electrical",
+    "name": "חשמל",
+    "slug": "electrical",
+    "url": "/categories/electrical/",
+    "shortDescription": "אביזרי חשמל בסיסיים, ציוד התקנה, כבלים ופתרונות עבודה משלימים.",
+    "image": "/assets/images/categories/electrical.webp",
+    "icon": "/assets/icons/categories/electrical.svg",
+    "priority": 6
+  },
+  {
+    "id": "paint-drywall",
+    "name": "צבע וגבס",
+    "slug": "paint-drywall",
+    "url": "/categories/paint-drywall/",
+    "shortDescription": "צבעים, חומרי הכנה, גבס, שפכטל, אביזרי צביעה וחומרי גמר.",
+    "image": "/assets/images/categories/paint-drywall.webp",
+    "icon": "/assets/icons/categories/paint-drywall.svg",
+    "priority": 7
+  },
+  {
+    "id": "bathroom-showers",
+    "name": "אמבטיה ומקלחונים",
+    "slug": "bathroom-showers",
+    "url": "/categories/bathroom-showers/",
+    "shortDescription": "כיורים, ברזים, מקלחונים, אביזרי רחצה ופתרונות לחדרי אמבטיה.",
+    "image": "/assets/images/categories/bathroom-showers.webp",
+    "icon": "/assets/icons/categories/bathroom-showers.svg",
+    "priority": 8
+  },
+  {
+    "id": "home-garden-cleaning",
+    "name": "מוצרים לבית, גינה וניקיון",
+    "slug": "home-garden-cleaning",
+    "url": "/categories/home-garden-cleaning/",
+    "shortDescription": "מוצרים שימושיים לבית, לגינה, לתחזוקה ולניקיון.",
+    "image": "/assets/images/categories/home-garden-cleaning.webp",
+    "icon": "/assets/icons/categories/home-garden-cleaning.svg",
+    "priority": 9
+  }
+]

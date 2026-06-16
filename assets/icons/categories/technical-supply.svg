@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="אספקה טכנית">
+  <rect x="10" y="18" width="44" height="34" rx="5" fill="none" stroke="#C6393C" stroke-width="4"/>
+  <path d="M22 18v-5h20v5M19 32h26M19 42h16" fill="none" stroke="#1c1c1d" stroke-width="4" stroke-linecap="round"/>
+</svg>
