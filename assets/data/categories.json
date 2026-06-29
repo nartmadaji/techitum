@@ -4,7 +4,7 @@
     "name": "אספקה טכנית",
     "slug": "technical-supply",
     "url": "/categories/technical-supply/",
-    "shortDescription": "ציוד, אביזרים וחומרים לבעלי מקצוע, שיפוצניקים ולקוחות פרטיים.",
+    "shortDescription": "אביזרים, ציוד משלים ומוצרים שימושיים לעבודה מקצועית ולתחזוקת הבית.",
     "image": "/assets/images/categories/technical-supply.webp",
     "icon": "/assets/icons/categories/technical-supply.svg",
     "priority": 1
@@ -14,17 +14,17 @@
     "name": "חומרי בניין",
     "slug": "building-materials",
     "url": "/categories/building-materials/",
-    "shortDescription": "חומרים בסיסיים לעבודות בנייה, תיקונים, הכנה ושיפוץ.",
+    "shortDescription": "בלוקים, טיט, מלט, גבס, דבקים וחומרים לעבודות בנייה ושיפוץ.",
     "image": "/assets/images/categories/building-materials.webp",
     "icon": "/assets/icons/categories/building-materials.svg",
     "priority": 2
   },
   {
     "id": "waterproofing-insulation",
-    "name": "חומרי איטום ובידוד",
+    "name": "איטום",
     "slug": "waterproofing-insulation",
     "url": "/categories/waterproofing-insulation/",
-    "shortDescription": "חומרי איטום, בידוד, יריעות, משחות ופתרונות לעבודות גג, קירות ורצפה.",
+    "shortDescription": "חומרי איטום, בידוד ופתרונות הגנה לבית, לגג ולעבודות שטח.",
     "image": "/assets/images/categories/waterproofing-insulation.webp",
     "icon": "/assets/icons/categories/waterproofing-insulation.svg",
     "priority": 3
@@ -44,7 +44,7 @@
     "name": "אינסטלציה",
     "slug": "plumbing",
     "url": "/categories/plumbing/",
-    "shortDescription": "צנרת, מחברים, אביזרי מים, פתרונות תיקון וחלקי אינסטלציה.",
+    "shortDescription": "צנרת, מחברים, ברזים ואביזרים לתיקוני מים ולעבודות אינסטלציה.",
     "image": "/assets/images/categories/plumbing.webp",
     "icon": "/assets/icons/categories/plumbing.svg",
     "priority": 5
@@ -54,37 +54,37 @@
     "name": "חשמל",
     "slug": "electrical",
     "url": "/categories/electrical/",
-    "shortDescription": "אביזרי חשמל בסיסיים, ציוד התקנה, כבלים ופתרונות עבודה משלימים.",
+    "shortDescription": "כבלים, שקעים, מפסקים ואביזרי חשמל בסיסיים לבית ולעבודה.",
     "image": "/assets/images/categories/electrical.webp",
     "icon": "/assets/icons/categories/electrical.svg",
     "priority": 6
   },
   {
     "id": "paint-drywall",
-    "name": "צבע וגבס",
+    "name": "צבע ומיקס",
     "slug": "paint-drywall",
     "url": "/categories/paint-drywall/",
-    "shortDescription": "צבעים, חומרי הכנה, גבס, שפכטל, אביזרי צביעה וחומרי גמר.",
+    "shortDescription": "צבעים, מיקס צבע, שפכטלים, חומרי גמר וציוד לצביעה.",
     "image": "/assets/images/categories/paint-drywall.webp",
     "icon": "/assets/icons/categories/paint-drywall.svg",
     "priority": 7
   },
   {
     "id": "bathroom-showers",
-    "name": "אמבטיה ומקלחונים",
+    "name": "אמבטיה וכלים סניטריים",
     "slug": "bathroom-showers",
     "url": "/categories/bathroom-showers/",
-    "shortDescription": "כיורים, ברזים, מקלחונים, אביזרי רחצה ופתרונות לחדרי אמבטיה.",
+    "shortDescription": "ארונות אמבטיה, מקלחונים, כלים סניטריים ואביזרי רחצה.",
     "image": "/assets/images/categories/bathroom-showers.webp",
     "icon": "/assets/icons/categories/bathroom-showers.svg",
     "priority": 8
   },
   {
     "id": "home-garden-cleaning",
-    "name": "מוצרים לבית, גינה וניקיון",
+    "name": "בית, גינה וקמפינג",
     "slug": "home-garden-cleaning",
     "url": "/categories/home-garden-cleaning/",
-    "shortDescription": "מוצרים שימושיים לבית, לגינה, לתחזוקה ולניקיון.",
+    "shortDescription": "דשא סינטטי, במבוק, מוצרי גינה, מוצרי קמפינג וציוד שימושי לבית.",
     "image": "/assets/images/categories/home-garden-cleaning.webp",
     "icon": "/assets/icons/categories/home-garden-cleaning.svg",
     "priority": 9
